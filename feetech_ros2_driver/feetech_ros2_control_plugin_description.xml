@@ -1,5 +1,4 @@
 <?xml version="1.0" ?>
-<!-- feetech_ros2_control_plugin_description.xml — Robot structural description and sensor plugin specification. -->
 <library path="feetech_ros2_driver">
   <class
     name="feetech_ros2_driver/FeetechHardwareInterface"

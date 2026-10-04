@@ -1,5 +1,4 @@
 <?xml version="1.0" ?>
-<!-- ROS 2 package manifest specifying dependencies (robot_state_publisher, gazebo_ros, nav2_bringup, moveit). -->
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
   <name>feetech_ros2_driver</name>
