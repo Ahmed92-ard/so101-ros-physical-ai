@@ -471,3 +471,10 @@ Dmitri Manajev
 ## License
 
 This project is licensed under the Apache License 2.0 — see [LICENSE](LICENSE) for details.
+
+## Attribution
+
+This project is derived from:
+[legalaspro/so101-ros-physical-ai](https://github.com/legalaspro/so101-ros-physical-ai)
+
+Credit to the original author and repository for the SO-101 ROS 2 implementation.
